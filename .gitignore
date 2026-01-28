@@ -1,0 +1,17 @@
+# Python 暫存檔
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook 暫存檔
+.ipynb_checkpoints
+
+# 虛擬環境 (防止誤裝的環境被追蹤)
+.venv/
+env/
+venv/
+bin/
+lib/
+share/
+include/
+conda-meta/
